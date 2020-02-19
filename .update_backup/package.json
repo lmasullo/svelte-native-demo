@@ -2,7 +2,7 @@
   "nativescript": {
     "id": "technology.sveltenative.template",
     "tns-ios": {
-      "version": "6.5.0-2020-02-17-111101-01"
+      "version": "6.4.0"
     },
     "tns-android": {
       "version": "6.4.1"
